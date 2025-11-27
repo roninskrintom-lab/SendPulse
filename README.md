@@ -2,7 +2,7 @@
 
 ![](images/Pasted image 20251127200946.png)
 Нажимаем Accept the invitation
-
+images/Pasted image 20251127200946.png
 Попадаем на страницу регистрации
 
 ![](images/Pasted image 20251127201134.png)
